@@ -1,0 +1,38 @@
+TheTransportLab - App Terms and Conditions, and Privacy Policy
+Version 3. Updated: 16 January 2022, 04:08:06 AM
+
+Consent
+By using TheTransportLab App (herein referred to as 'the app'), your hereby consent and agree to our privacy policy and terms and conditions. If you disagree with the terms, you must terminate usage of the app and all services provided by TheTransportLab with immediate effect. By continuing to use the app and services provided by TheTransportLab, you agree to these terms.
+
+Changes to the Privacy Policy and Terms and Conditions
+TheTransportLab reserves the right to change this privacy policy and/or the terms and conditions at any time. You are advised to review this policy periodically for any changes. Your continued use of the app and services provided by TheTransportLab will be deemed to be your acceptance of the changes in this policy.
+
+Information we collect
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. When you register for an account, we may ask for your contact information, including details such as name, company name, address, email address, and telephone number.
+
+How we use your information
+We use the information we collect in various ways, including to:
+
+ - Providing users with access to the app, included as part of our service
+ - Ensuring the security and performance of the various websites, apps, and services provided and operated by TheTransportLab
+ - Provide communication to you in cases of support requests or queries
+
+We do not use your information in any of the following ways:
+
+ - To track your behaviour or browsing habits across other websites or services
+ - For the provision of advertisements
+
+Advertising Partners Privacy Policies
+TheTransportLab does not utilise advertising on any of our official websites, apps or data APIs
+
+Third Party Privacy Policies
+TheTransportLab Privacy Policy and Terms and Conditions does not apply to third party websites or data providers. Thus, we are advising you to consult the respective privacy policies of these third-parties for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+
+
+Your Rights
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you, or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information may be transferred outside of Europe, including to Canada and the United States. This may include routing requests through providers we use to provide our services.
+
+
+Contact Us
+If you have any questions about this privacy policy or its terms and conditions, please contact us via support@thetransportlab.com
